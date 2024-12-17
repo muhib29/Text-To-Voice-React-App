@@ -1,8 +1,34 @@
-# React + Vite
+# 🎙️ Text-to-Voice App  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description  
+A simple and interactive Text-to-Speech (TTS) web application built with **React.js**. This app utilizes the **Web Speech API** to convert any text input into speech, providing an easy and fun way to listen to written content.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features  
+- 🎯 **User-Friendly Interface**: Easy input for your text.  
+- 🗣️ **Real-Time Text-to-Speech**: Converts text into speech instantly.  
+- 🎛️ **Voice Customization**: Choose between available voices and adjust the speed.  
+- 💻 **Responsive Design**: Works on all devices, including desktop and mobile.  
+
+---
+
+## Tech Stack  
+- ⚛️ React.js  
+- 🌐 Web Speech API  
+- 💅 CSS (for styling)  
+
+---
+
+## Getting Started  
+
+### Prerequisites  
+Ensure you have the following installed:  
+- **Node.js** and **npm**  
+
+### Installation  
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/yourusername/text-to-voice-app.git
+   cd text-to-voice-app
